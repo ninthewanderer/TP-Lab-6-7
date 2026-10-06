@@ -1,0 +1,8 @@
+D:\Game Dev Projects\TP-Lab-6-7\Zork\bin\Debug\Zork.exe.config
+D:\Game Dev Projects\TP-Lab-6-7\Zork\bin\Debug\Zork.exe
+D:\Game Dev Projects\TP-Lab-6-7\Zork\bin\Debug\Zork.pdb
+D:\Game Dev Projects\TP-Lab-6-7\Zork\obj\Debug\Zork.csproj.AssemblyReference.cache
+D:\Game Dev Projects\TP-Lab-6-7\Zork\obj\Debug\Zork.csproj.CoreCompileInputs.cache
+D:\Game Dev Projects\TP-Lab-6-7\Zork\obj\Debug\Zork.exe
+D:\Game Dev Projects\TP-Lab-6-7\Zork\obj\Debug\Zork.pdb
+D:\Game Dev Projects\TP-Lab-6-7\Zork\obj\Debug\Zork.exe.config
